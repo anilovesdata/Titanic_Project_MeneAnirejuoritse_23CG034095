@@ -1,0 +1,6 @@
+1. Name: Mene Anirejuoritse Nicole
+2. Matric Number: 23CG034095
+3. Machine Learning Algorithm Used: Logistic Regression
+4. Model persistence method used: Joblib
+5. Live URL of the hosted application: 
+6. GitHub repository link: 
