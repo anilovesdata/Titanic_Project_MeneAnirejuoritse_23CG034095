@@ -2,5 +2,5 @@
 2. Matric Number: 23CG034095
 3. Machine Learning Algorithm Used: Logistic Regression
 4. Model persistence method used: Joblib
-5. Live URL of the hosted application: 
-6. GitHub repository link: 
+5. Live URL of the hosted application:  https://titanic-project-meneanirejuoritse-p053.onrender.com
+6. GitHub repository link: https://github.com/anilovesdata/Titanic_Project_MeneAnirejuoritse_23CG034095
